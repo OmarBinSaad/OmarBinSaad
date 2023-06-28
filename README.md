@@ -21,7 +21,7 @@ I am Data Anlayst.
 
 [![W3C Validation](https://img.shields.io/w3c-validation/:parser)&nbsp;
 ](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
-)
+)&nbsp;
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
