@@ -10,8 +10,7 @@ I am Data Anlayst.
 
 - any collobration work,
 - machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- research internships and available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
 ## Skills:
 
