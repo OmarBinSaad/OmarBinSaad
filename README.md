@@ -56,8 +56,7 @@ I am Data Anlayst.
 
 
 
-<center>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarBinSaad
-&layout=compact&theme=buefy&hide_border=true" /></a> </center>
+<center>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> </center>
 
 <!-- 
 ----
