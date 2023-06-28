@@ -4,7 +4,7 @@ I am Data Anlayst.
 
 **My Reseach Interest**:
 - Classification
-- Clusteri 
+- Clustering
 
  **I am open to**:
 
