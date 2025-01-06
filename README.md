@@ -1,4 +1,4 @@
-### Hi there, I'm [Omar bn Saad](https://durgeshsamariya.github.io) 👋
+### Hi there, I'm [Omar bin Saad](https://durgeshsamariya.github.io) 👋
 
 I am Data Anlayst.
 
